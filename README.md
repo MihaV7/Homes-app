@@ -1,20 +1,6 @@
-# Angular Homes App
-- Install Angular if you don't have it installed
+# Homes Angular Project 🏡
 
-  `npm install -g @angular/cli`
+This repository contains the **Homes** project I developed while completing an online Angular course.  
+The project showcases my learning journey and serves as a practical example of building dynamic, interactive web applications using Angular.  
 
-- Clone this branch to your local machine
-
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
-
-- Once the code has been downloaded
-
-  `cd homes-app`
-
-- Install the depencies
-
-  `npm install` 
-
-- Run the application 
-
-  `ng serve`
+I created this project for my own experience and to improve my skills in Angular development.
